@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RllLYMYsc4uGShB46S7fhyGP0ksanHW9rZaxML4E+P4pWotUvK7ccav/hsxacJnLi65tNfm2iUU1byzZxrA91Q==",
+  "dgSpecHash": "sPg42XQupfRo215XecgHe6j0hBuP5krJ8u/0iJvtRWhiV30KrbB8nHBasMZEoI0YpyzdbQQtVyOV3XunuK2sUQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\patri\\source\\repos\\VS2019\\TodoApi\\TodoApi\\TodoApi.csproj",
+  "projectFilePath": "C:\\Users\\patri\\Desktop\\2DAM\\PROYECTO\\CreacionApiWeb\\TodoApi\\TodoApi\\TodoApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\patri\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\patri\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

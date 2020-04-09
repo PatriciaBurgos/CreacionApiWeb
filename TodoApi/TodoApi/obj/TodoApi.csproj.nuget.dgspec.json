@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\patri\\source\\repos\\VS2019\\TodoApi\\TodoApi\\TodoApi.csproj": {}
+    "C:\\Users\\patri\\Desktop\\2DAM\\PROYECTO\\CreacionApiWeb\\TodoApi\\TodoApi\\TodoApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\patri\\source\\repos\\VS2019\\TodoApi\\TodoApi\\TodoApi.csproj": {
+    "C:\\Users\\patri\\Desktop\\2DAM\\PROYECTO\\CreacionApiWeb\\TodoApi\\TodoApi\\TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\patri\\source\\repos\\VS2019\\TodoApi\\TodoApi\\TodoApi.csproj",
+        "projectUniqueName": "C:\\Users\\patri\\Desktop\\2DAM\\PROYECTO\\CreacionApiWeb\\TodoApi\\TodoApi\\TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "C:\\Users\\patri\\source\\repos\\VS2019\\TodoApi\\TodoApi\\TodoApi.csproj",
+        "projectPath": "C:\\Users\\patri\\Desktop\\2DAM\\PROYECTO\\CreacionApiWeb\\TodoApi\\TodoApi\\TodoApi.csproj",
         "packagesPath": "C:\\Users\\patri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\patri\\source\\repos\\VS2019\\TodoApi\\TodoApi\\obj\\",
+        "outputPath": "C:\\Users\\patri\\Desktop\\2DAM\\PROYECTO\\CreacionApiWeb\\TodoApi\\TodoApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
