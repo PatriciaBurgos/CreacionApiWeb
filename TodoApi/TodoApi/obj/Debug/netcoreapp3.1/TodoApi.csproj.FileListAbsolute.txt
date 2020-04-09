@@ -141,6 +141,11 @@ C:\Users\patri\source\repos\VS2019\TodoApi\TodoApi\bin\Debug\netcoreapp3.1\ru\Mi
 C:\Users\patri\source\repos\VS2019\TodoApi\TodoApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\patri\source\repos\VS2019\TodoApi\TodoApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\patri\source\repos\VS2019\TodoApi\TodoApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\patri\source\repos\VS2019\TodoApi\TodoApi\obj\Debug\netcoreapp3.1\TodoApi.csproj.CoreCompileInputs.cache
-C:\Users\patri\source\repos\VS2019\TodoApi\TodoApi\obj\Debug\netcoreapp3.1\TodoApi.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\patri\source\repos\VS2019\TodoApi\TodoApi\obj\Debug\netcoreapp3.1\TodoApi.csprojAssemblyReference.cache
+C:\Users\patri\source\repos\VS2019\TodoApi\TodoApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\patri\source\repos\VS2019\TodoApi\TodoApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\patri\source\repos\VS2019\TodoApi\TodoApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\patri\source\repos\VS2019\TodoApi\TodoApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\patri\source\repos\VS2019\TodoApi\TodoApi\obj\Debug\netcoreapp3.1\TodoApi.csproj.CoreCompileInputs.cache
+C:\Users\patri\source\repos\VS2019\TodoApi\TodoApi\obj\Debug\netcoreapp3.1\TodoApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\patri\source\repos\VS2019\TodoApi\TodoApi\obj\Debug\netcoreapp3.1\TodoApi.MvcApplicationPartsAssemblyInfo.cache

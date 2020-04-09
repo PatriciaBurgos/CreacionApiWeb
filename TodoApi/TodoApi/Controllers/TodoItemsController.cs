@@ -9,6 +9,7 @@ using TodoApi.Models;
 
 namespace TodoApi.Controllers
 {
+    [Produces("application/json")]
     [Route("api/TodoItems")]
     [ApiController]
     public class TodoItemsController : ControllerBase
@@ -71,7 +72,27 @@ namespace TodoApi.Controllers
             return NoContent();
         }
 
+        /// <summary>
+        /// Creates a TodoItem.
+        /// </summary>
+        /// <remarks>
+        /// Sample request:
+        ///
+        ///     POST /Todo
+        ///     {
+        ///        "id": 1,
+        ///        "name": "Item1",
+        ///        "isComplete": true
+        ///     }
+        ///
+        /// </remarks>
+        /// <param name="item"></param>
+        /// <returns>A newly created TodoItem</returns>
+        /// <response code="201">Returns the newly created item</response>
+        /// <response code="400">If the item is null</response>            
         [HttpPost]
+        [ProducesResponseType(StatusCodes.Status201Created)]
+        [ProducesResponseType(StatusCodes.Status400BadRequest)]
         public async Task<ActionResult<TodoItem>> CreateTodoItem(TodoItemDTO todoItemDTO)
         {
             var todoItem = new TodoItem
@@ -85,22 +106,26 @@ namespace TodoApi.Controllers
 
             return CreatedAtAction(
                 nameof(GetTodoItem),
-                new { id = todoItem.Id },
+                new { id = todoItemDTO.Id },
                 ItemToDTO(todoItem));
         }
 
+        /// <summary>
+        /// Deletes a specific TodoItem.
+        /// </summary>
+        /// <param name="id"></param>        
         [HttpDelete("{id}")]
-        public async Task<IActionResult> DeleteTodoItem(long id)
+        public IActionResult Delete(long id)
         {
-            var todoItem = await _context.TodoItems.FindAsync(id);
+            var todo = _context.TodoItems.Find(id);
 
-            if (todoItem == null)
+            if (todo == null)
             {
                 return NotFound();
             }
 
-            _context.TodoItems.Remove(todoItem);
-            await _context.SaveChangesAsync();
+            _context.TodoItems.Remove(todo);
+            _context.SaveChanges();
 
             return NoContent();
         }
