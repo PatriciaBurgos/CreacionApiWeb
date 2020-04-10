@@ -8523,11 +8523,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\patri\\Desktop\\2DAM\\PROYECTO\\CreacionApiWeb\\TodoApi\\TodoApi\\TodoApi.csproj",
+      "projectUniqueName": "C:\\Users\\patri\\Downloads\\CreacionApiWeb-b2c66bb7b653fae968bf2691dbf6cc8387001355\\CreacionApiWeb-b2c66bb7b653fae968bf2691dbf6cc8387001355\\TodoApi\\TodoApi\\TodoApi.csproj",
       "projectName": "TodoApi",
-      "projectPath": "C:\\Users\\patri\\Desktop\\2DAM\\PROYECTO\\CreacionApiWeb\\TodoApi\\TodoApi\\TodoApi.csproj",
+      "projectPath": "C:\\Users\\patri\\Downloads\\CreacionApiWeb-b2c66bb7b653fae968bf2691dbf6cc8387001355\\CreacionApiWeb-b2c66bb7b653fae968bf2691dbf6cc8387001355\\TodoApi\\TodoApi\\TodoApi.csproj",
       "packagesPath": "C:\\Users\\patri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\patri\\Desktop\\2DAM\\PROYECTO\\CreacionApiWeb\\TodoApi\\TodoApi\\obj\\",
+      "outputPath": "C:\\Users\\patri\\Downloads\\CreacionApiWeb-b2c66bb7b653fae968bf2691dbf6cc8387001355\\CreacionApiWeb-b2c66bb7b653fae968bf2691dbf6cc8387001355\\TodoApi\\TodoApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
